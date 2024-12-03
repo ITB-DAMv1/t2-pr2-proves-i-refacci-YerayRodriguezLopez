@@ -23,23 +23,29 @@ namespace GeometryApp
 
         public static void Main(string[] args)
         {
+            // Obtenim les dades de l'usuari
+            double rectangleWidth = GetDouble(RectangleWidthPrompt);
+            double rectangleHeight = GetDouble(RectangleHeightPrompt);
+            double circleRadius = GetDouble(CircleRadiusPrompt);
+
             // Calcula l'àrea d'un rectangle
-            double rectangleArea = CalculateRectangleArea();
+            double rectangleArea = CalculateRectangleArea(rectangleWidth, rectangleHeight);
             Console.WriteLine(RectangleAreaMessage + rectangleArea);
 
             // Calcula la circumferència d'un cercle
-            double circleCircumference = CalculateCircleCircumference();
+            double circleCircumference = CalculateCircleCircumference(circleRadius);
             Console.WriteLine(CircleCircumferenceMessage + circleCircumference);
 
             // Mostra un missatge segons l'àrea
             DisplayAreaEvaluation(rectangleArea);
         }
 
+        // Mètode per obtenir un número vàlid des de la consola
         public static double GetDouble(string prompt)
         {
             bool flag = false;
             double value = 0;
-            while (flag)
+            while (!flag)
             {
                 try
                 {
@@ -63,19 +69,19 @@ namespace GeometryApp
             return value;
         }
 
-        public static double CalculateRectangleArea()
+        // Mètode per calcular l'àrea d'un rectangle
+        public static double CalculateRectangleArea(double width, double height)
         {
-            double rectangleWidth = GetDouble(RectangleWidthPrompt);
-            double rectangleHeight = GetDouble(RectangleHeightPrompt);
-            return rectangleWidth * rectangleHeight;
+            return width * height;
         }
 
-        public static double CalculateCircleCircumference()
+        // Mètode per calcular la circumferència d'un cercle
+        public static double CalculateCircleCircumference(double radius)
         {
-            double circleRadius = GetDouble(CircleRadiusPrompt);
-            return CircleMultiplier * Pi * circleRadius;
+            return CircleMultiplier * Pi * radius;
         }
 
+        // Mètode per mostrar la classificació de l'àrea
         public static void DisplayAreaEvaluation(double rectangleArea)
         {
             if (rectangleArea > AreaThreshold1)
