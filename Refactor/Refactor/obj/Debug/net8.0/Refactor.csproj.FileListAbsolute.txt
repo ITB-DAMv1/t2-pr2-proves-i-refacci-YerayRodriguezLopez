@@ -1,0 +1,15 @@
+C:\Users\isard\Documents\Programacion\t2-pr2-proves-i-refacci-YerayRodriguezLopez\Refactor\Refactor\bin\Debug\net8.0\Refactor.exe
+C:\Users\isard\Documents\Programacion\t2-pr2-proves-i-refacci-YerayRodriguezLopez\Refactor\Refactor\bin\Debug\net8.0\Refactor.deps.json
+C:\Users\isard\Documents\Programacion\t2-pr2-proves-i-refacci-YerayRodriguezLopez\Refactor\Refactor\bin\Debug\net8.0\Refactor.runtimeconfig.json
+C:\Users\isard\Documents\Programacion\t2-pr2-proves-i-refacci-YerayRodriguezLopez\Refactor\Refactor\bin\Debug\net8.0\Refactor.dll
+C:\Users\isard\Documents\Programacion\t2-pr2-proves-i-refacci-YerayRodriguezLopez\Refactor\Refactor\bin\Debug\net8.0\Refactor.pdb
+C:\Users\isard\Documents\Programacion\t2-pr2-proves-i-refacci-YerayRodriguezLopez\Refactor\Refactor\obj\Debug\net8.0\Refactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\Documents\Programacion\t2-pr2-proves-i-refacci-YerayRodriguezLopez\Refactor\Refactor\obj\Debug\net8.0\Refactor.AssemblyInfoInputs.cache
+C:\Users\isard\Documents\Programacion\t2-pr2-proves-i-refacci-YerayRodriguezLopez\Refactor\Refactor\obj\Debug\net8.0\Refactor.AssemblyInfo.cs
+C:\Users\isard\Documents\Programacion\t2-pr2-proves-i-refacci-YerayRodriguezLopez\Refactor\Refactor\obj\Debug\net8.0\Refactor.csproj.CoreCompileInputs.cache
+C:\Users\isard\Documents\Programacion\t2-pr2-proves-i-refacci-YerayRodriguezLopez\Refactor\Refactor\obj\Debug\net8.0\Refactor.sourcelink.json
+C:\Users\isard\Documents\Programacion\t2-pr2-proves-i-refacci-YerayRodriguezLopez\Refactor\Refactor\obj\Debug\net8.0\Refactor.dll
+C:\Users\isard\Documents\Programacion\t2-pr2-proves-i-refacci-YerayRodriguezLopez\Refactor\Refactor\obj\Debug\net8.0\refint\Refactor.dll
+C:\Users\isard\Documents\Programacion\t2-pr2-proves-i-refacci-YerayRodriguezLopez\Refactor\Refactor\obj\Debug\net8.0\Refactor.pdb
+C:\Users\isard\Documents\Programacion\t2-pr2-proves-i-refacci-YerayRodriguezLopez\Refactor\Refactor\obj\Debug\net8.0\Refactor.genruntimeconfig.cache
+C:\Users\isard\Documents\Programacion\t2-pr2-proves-i-refacci-YerayRodriguezLopez\Refactor\Refactor\obj\Debug\net8.0\ref\Refactor.dll
