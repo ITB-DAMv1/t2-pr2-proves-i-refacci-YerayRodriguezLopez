@@ -1,18 +1,19 @@
 # 1. Metodologies àgils de desenvolupament de programari
 ## Característiques principals:
+- Iteratives i incrementals: Dividir el projecte en cicles curts (sprints) per lliurar parts funcionals del producte.
+- Flexibilitat: Capacitat d'adaptar-se a canvis en els requeriments durant el procés.
+- Col·laboració constant: Treball proper amb els clients i comunicació contínua amb l'equip.
+- Foment de la qualitat: Revisió i proves freqüents per assegurar que el producte compleix els requisits.
 
-Iteratives i incrementals: Dividir el projecte en cicles curts (sprints) per lliurar parts funcionals del producte.
-Flexibilitat: Capacitat d'adaptar-se a canvis en els requeriments durant el procés.
-Col·laboració constant: Treball proper amb els clients i comunicació contínua amb l'equip.
-Foment de la qualitat: Revisió i proves freqüents per assegurar que el producte compleix els requisits.
-Escenaris d'ús:
+## Escenaris d'ús:
+- Projectes amb requisits incerts o en evolució constant.
+- Equips multidisciplinaris que necessiten treballar junts de forma flexible.
+- Desenvolupament de software amb cicles de lliurament ràpids.
 
-Projectes amb requisits incerts o en evolució constant.
-Equips multidisciplinaris que necessiten treballar junts de forma flexible.
-Desenvolupament de software amb cicles de lliurament ràpids.
-Exemple: Un equip utilitza Scrum per desenvolupar una aplicació mòbil. Dividixen el projecte en sprints de dues setmanes. Cada sprint inclou planificació, desenvolupament, proves i una demo per al client, que dona feedback per al següent sprint.
+## Exemple: 
+- Un equip utilitza Scrum per desenvolupar una aplicació mòbil. Dividixen el projecte en sprints de dues setmanes. Cada sprint inclou planificació, desenvolupament, proves i una demo per al client, que dona feedback per al següent sprint.
 
-# 2.Dobles de prova
+# 2. Dobles de prova
 
 - Definició: Els dobles de prova són objectes que simulen el comportament de dependències en proves de software.
 
@@ -137,4 +138,11 @@ Preferències desconegudes:
 - "tarda" → 2.
 - "desconegut" → 2.
 - "" → 2.
-- null → 2.
+
+# Bibliografia
+
+## Pronts ChatGPT
+
+Quines són les característiques de les metodologies àgils i quan s’utilitzen? Dona un exemple pràctic.
+
+Què són els dobles de prova i quins tipus existeixen? Dona un exemple pràctic en C#.
